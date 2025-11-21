@@ -1,0 +1,27 @@
+# =============================================================================
+# REQUIREMENTS.TXT
+# Dependências necessárias para os scripts de análise de consumo de combustível
+# =============================================================================
+
+# Bibliotecas fundamentais
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Machine Learning - Scikit-learn
+scikit-learn>=1.3.0
+
+# Gradient Boosting avançado
+xgboost>=2.0.0
+lightgbm>=4.0.0
+
+# Visualização de dados
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilitários
+joblib>=1.3.0
+scipy>=1.11.0
+
+# Opcional: Para Jupyter Notebooks (se quiser rodar em notebooks)
+# jupyter>=1.0.0
+# ipython>=8.12.0
