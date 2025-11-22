@@ -252,7 +252,7 @@ Ciclo BDC:     16.38 MPG
 ## 📞 Contato
 
 - **Autores**: HebSODev, Thales Albino
-- **Repositórios**:[](https://github.com/Thales-P), [https://github.com/HebSODev/Fuel_Consumption](https://github.com/HebSODev/Fuel_Consumption)
+- **Repositórios**:[Thales Albino](https://github.com/Thales-P), [https://github.com/HebSODev/Fuel_Consumption](https://github.com/HebSODev/Fuel_Consumption)
 
 ---
 
